@@ -113,7 +113,7 @@ Object_Detection_and_Tracking/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Object_Detection_and_Tracking.git
+git clone https://github.com/Atimad123/Object_Detection_and_Tracking.git
 ```
 
 Open the project
